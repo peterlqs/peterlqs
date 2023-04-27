@@ -1,5 +1,3 @@
-Hey there, I'm Peter 👋
-
 # 💫 About Me:
 Name: Phan Long Quan Nguyen - but call me Peter :)<br>Age: 18<br>Currently interested in:<br>- Data Analytics<br>- Data Science<br>- Machine learning<br>- Software engineering<br>- Web app/Mobile app<br><br>
 
